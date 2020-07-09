@@ -1,0 +1,2 @@
+INSERT INTO veiculo (id, model, brand, year, color) VALUES (10, 'Onix', 'Chevrolet', 2019, 'branco');
+INSERT INTO veiculo (id, model, brand, year, color) VALUES (11, 'Jeep Renegade', 'Jeep', 2020, 'preto');
